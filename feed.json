@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "www.maneesh.info",
+    "description": "",
+    "home_page_url": "http://github.com",
+    "feed_url": "http://github.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maneesh"
+    },
+    "items": [
+        {
+            "id": "http://github.com/bangalore-days.html",
+            "url": "http://github.com/bangalore-days.html",
+            "title": "Bangalore days",
+            "summary": "This is my post and this is related to Bangalore ",
+            "content_html": "<p>This is my post and this is related to Bangalore</p>\n<p><img class=\"post__image--full\" src=\"http://github.com/media/posts/1/3-abstract-art-1061140.jpg\" alt=\"\" width=\"401\" height=\"281\"></p>\n<p><img class=\"post__image--full\" src=\"https://www.pexels.com/photo/black-vehicle-at-the-road-1647120/\" alt=\"\"><img class=\"post__image--full\" src=\"https://www.pexels.com/photo/black-vehicle-at-the-road-1647120/\" width=\"200\" height=\"200\"></p>",
+            "image": "http://github.com/media/posts/1/",
+            "author": {
+                "name": "Maneesh"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-11T18:36:19+05:30",
+            "date_modified": "2018-12-11T18:36:19+05:30"
+        }
+    ]
+}
